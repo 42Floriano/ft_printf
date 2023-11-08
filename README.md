@@ -23,3 +23,4 @@ Simple use the makefile
 
 ## Usage
 The `ft_printf` function works similarly to the `printf` function but in a simplified manner. It can be used in the same way as `printf`.
+![printf](https://github.com/IronWyatt/ft_printf/assets/56269861/9a596fa6-dffe-49d7-9e44-124121d62f44)
